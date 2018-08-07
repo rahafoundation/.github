@@ -1,0 +1,6 @@
+pulls:
+    daysUntilStale: 1.5
+    daysUntilClose: 1.5
+    staleLabel: stale
+    markComment: >
+    Move fast! No one has commented on this PR in 36 hours, after 36 more without updates it will be closed.
